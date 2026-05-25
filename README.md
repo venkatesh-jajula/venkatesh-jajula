@@ -56,9 +56,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-jajula&show_icons=true&theme=default&hide_border=true" alt="Venkatesh's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-jajula&theme=default" alt="GitHub Streak" />
 </p>
