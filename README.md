@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Venkatesh Jajula</h1>
 
-<h3 align="center">Agentic AI Engineer | Ex-Data Engineer | Master's Student in AI & Data Science</h3>
+<h3 align="center">Agentic AI Engineer | Ex-Data Engineer | M.Sc. Artificial Intelligence & Data Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=venkatesh-jajula&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh-jajula" />
